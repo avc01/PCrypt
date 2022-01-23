@@ -1,0 +1,16 @@
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\net5.0\PCrypt.exe
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\net5.0\PCrypt.deps.json
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\net5.0\PCrypt.runtimeconfig.json
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\net5.0\PCrypt.runtimeconfig.dev.json
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\net5.0\PCrypt.dll
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\net5.0\ref\PCrypt.dll
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\net5.0\PCrypt.pdb
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\PCrypt.csproj.AssemblyReference.cache
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\PCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\PCrypt.AssemblyInfoInputs.cache
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\PCrypt.AssemblyInfo.cs
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\PCrypt.csproj.CoreCompileInputs.cache
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\PCrypt.dll
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\ref\PCrypt.dll
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\PCrypt.pdb
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\net5.0\PCrypt.genruntimeconfig.cache

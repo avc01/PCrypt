@@ -1,0 +1,14 @@
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\netcoreapp3.1\PCrypt.csproj.AssemblyReference.cache
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\netcoreapp3.1\PCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\netcoreapp3.1\PCrypt.AssemblyInfoInputs.cache
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\netcoreapp3.1\PCrypt.AssemblyInfo.cs
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\netcoreapp3.1\PCrypt.csproj.CoreCompileInputs.cache
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\netcoreapp3.1\PCrypt.exe
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\netcoreapp3.1\PCrypt.deps.json
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\netcoreapp3.1\PCrypt.runtimeconfig.json
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\netcoreapp3.1\PCrypt.runtimeconfig.dev.json
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\netcoreapp3.1\PCrypt.dll
+C:\Users\Viquez\source\repos\PCrypt\bin\Debug\netcoreapp3.1\PCrypt.pdb
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\netcoreapp3.1\PCrypt.dll
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\netcoreapp3.1\PCrypt.pdb
+C:\Users\Viquez\source\repos\PCrypt\obj\Debug\netcoreapp3.1\PCrypt.genruntimeconfig.cache
