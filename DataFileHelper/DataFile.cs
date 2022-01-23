@@ -6,13 +6,12 @@ namespace PCrypt.DataFileHelper
 {
     public class DataFile
     {
-        public static string GetFile(bool isEncryption, string folderPath) 
+        public static string GetFile(string folderPath) 
         {
             Console.Write($"{Environment.NewLine}Add the file name(including extension):");
+
             var fileName = Console.ReadLine();
 
-            if (isEncryption) return File.ReadAllText(Path.Combine(folderPath, fileName));
-            
             return File.ReadAllText(Path.Combine(folderPath, fileName));
         }
 

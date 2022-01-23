@@ -14,7 +14,7 @@ namespace PCrypt.Crypt
             
             //Create the encryptor, convert to bytes, and encrypt
             var cryptTransform = cipher.CreateEncryptor();
-            var plainText = Encoding.UTF8.GetBytes(DataFile.GetFile(true, folderPath)); 
+            var plainText = Encoding.UTF8.GetBytes(DataFile.GetFile(folderPath)); 
             var cipherText = cryptTransform.TransformFinalBlock(plainText, 0, plainText.Length);
 
             //Show the IV and secret key
@@ -37,7 +37,7 @@ namespace PCrypt.Crypt
 
             //Create the decryptor, convert from base64 to bytes, decrypt
             var cryptTransform = cipher.CreateDecryptor();
-            var cipherText = Convert.FromBase64String(DataFile.GetFile(false, folderPath));
+            var cipherText = Convert.FromBase64String(DataFile.GetFile(folderPath));
             var plainText = cryptTransform.TransformFinalBlock(cipherText, 0, cipherText.Length);
 
             //Generate the decrypted file
